@@ -8,7 +8,6 @@ cuid: cm0sud5ju002q09mfhw94b1mp
 slug: julien-barbier-alxse-building-side-projects
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1725659084792/3b9fb898-fe4d-42eb-9900-73f7ff54b59c.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1725754017617/f4e2b5f8-ab00-4752-998d-975d35ca0f29.jpeg
-tags: startups, projects, software-engineering, company, build-in-public, alx-software-engineering, projects-for-portfolio
 
 ---
 
